@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+fMRIpreprocessing/__init__.py
+fMRIpreprocessing/utils.py
+fMRIpreprocessing.egg-info/PKG-INFO
+fMRIpreprocessing.egg-info/SOURCES.txt
+fMRIpreprocessing.egg-info/dependency_links.txt
+fMRIpreprocessing.egg-info/requires.txt
+fMRIpreprocessing.egg-info/top_level.txt

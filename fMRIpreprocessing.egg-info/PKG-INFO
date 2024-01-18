@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: fMRIpreprocessing
+Version: 0.1.0
+Author: Anwar Said
+Author-email: anwar.said@vanderbilt.edu
+Keywords: python,neuroimaging
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+A Python Package for preprocessing fMRI
